@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, yaktocat!";
 ```
+- [ ] wake yaktocat up
+- [ ] wash yaktocat
+- [ ] feed yaktocat
+
